@@ -1,0 +1,60 @@
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.loging_form.resources
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\verhovensky\source\repos\simplecode 2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterfForm.resources
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.loging_form.resources
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.RegisterfForm.resources
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MainForm.resources
+C:\Users\verhovensky\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
